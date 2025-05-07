@@ -1,5 +1,6 @@
 body {
   margin: 0;
-  margin-top: 0;
+  margin-top: -21px;
   font-family: sans-serif;
+  background-color: rgb(154, 154, 154);
 }

@@ -13,3 +13,14 @@
 .divider {
   border: 1px solid #f4f4f4;
 }
+
+.deleteButton {
+  float: right;
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  cursor: pointer;
+  margin-top: -5px;
+  border-radius: 4px;
+}
